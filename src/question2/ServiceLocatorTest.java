@@ -1,5 +1,5 @@
 package question2;
-
+/*
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -25,3 +25,4 @@ public class ServiceLocatorTest {
         assertEquals(2, ServiceLocator.cache.getCacheSize());
     }
 }
+*/
