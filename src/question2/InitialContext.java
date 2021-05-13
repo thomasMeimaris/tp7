@@ -1,5 +1,5 @@
 package question2;
-
+/*
 public class InitialContext {
     public Object lookup(String serviceName) {
         if (serviceName.equalsIgnoreCase("EmailService")) {
@@ -10,3 +10,4 @@ public class InitialContext {
         return null;
     }
 }
+*/

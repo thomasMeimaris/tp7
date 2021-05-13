@@ -1,5 +1,5 @@
 package question2;
-
+/*
 public class ServiceLocator {
 
     public static Cache cache = new Cache();
@@ -19,3 +19,4 @@ public class ServiceLocator {
         return service;
     }
 }
+*/
